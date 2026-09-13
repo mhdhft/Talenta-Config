@@ -1,0 +1,15 @@
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: talenta
+      POSTGRES_PASSWORD: talenta
+      POSTGRES_DB: talenta_mapping
+    ports:
+      - "5432:5432"
+    volumes:
+      - talenta_db_data:/var/lib/postgresql/data
+
+volumes:
+  talenta_db_data:

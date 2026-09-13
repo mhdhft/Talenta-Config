@@ -1,0 +1,15 @@
+kolom_new_document,field_standar_terdeteksi,confidence,alasan
+Nama Depan,First Name,high,'Nama Depan' merupakan terjemahan langsung dari 'First Name'.
+Nama Belakang,Last Name,high,'Nama Belakang' merupakan terjemahan langsung dari 'Last Name'.
+Jabatan,Job Position,high,'Jabatan' merupakan istilah bahasa Indonesia untuk 'Job Position'.
+Divisi,Organization Name,medium,"'Divisi' merujuk pada unit organisasi perusahaan, sehingga paling sesuai dengan 'Organization Name'."
+Level Jabatan,Job Level,high,'Level Jabatan' secara langsung diterjemahkan sebagai 'Job Level'.
+Grade,Grade,high,Nama kolom sama persis dengan field standar 'Grade'.
+Kelas,Class,high,'Kelas' merupakan terjemahan bahasa Indonesia dari 'Class'.
+Sts. Kerja,Employment Status,high,'Sts. Kerja' adalah singkatan dari Status Kerja yang berarti 'Employment Status'.
+Tgl Akhir Sts Kerja,Employment Status End Date,high,"'Tgl Akhir Sts Kerja' bermakna Tanggal Akhir Status Kerja, cocok dengan 'Employment Status End Date'."
+Cabang,Branch Name,high,"'Cabang' menunjukkan nama cabang tempat bekerja, sepadan dengan 'Branch Name'."
+CC,Cost Center,high,'CC' merupakan singkatan standar untuk 'Cost Center'.
+Kategori CC,Cost Center Category,high,"'Kategori CC' bermakna Kategori Cost Center, identik dengan 'Cost Center Category'."
+Approval Line,Approval Line,high,Nama kolom sama persis dengan field standar 'Approval Line'.
+Manager,Manager,high,Nama kolom sama persis dengan field standar 'Manager'.

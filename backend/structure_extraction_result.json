@@ -1,0 +1,42 @@
+[
+  {
+    "job_title": "Direktur Operasional & Marketing",
+    "parent": null,
+    "name": null,
+    "status": "ok",
+    "note": null,
+    "source_box_id_internal": null
+  },
+  {
+    "job_title": "Direktur BBM, Pelumas & Kimia",
+    "parent": "Direktur Operasional & Marketing",
+    "name": null,
+    "status": "ok",
+    "note": null,
+    "source_box_id_internal": null
+  },
+  {
+    "job_title": "Direktur LPG",
+    "parent": "Direktur Operasional & Marketing",
+    "name": null,
+    "status": "ok",
+    "note": null,
+    "source_box_id_internal": null
+  },
+  {
+    "job_title": "Business Unit Manager 1",
+    "parent": "Direktur BBM, Pelumas & Kimia",
+    "name": null,
+    "status": "ambiguous_solid_merge",
+    "note": "Posisi \"Business Unit Manager\" terdeteksi ambigu - garis solid menyatu di antara 2 kotak atasan (Direktur BBM, Pelumas & Kimia, Direktur LPG). Sistem otomatis membuat 2 baris terpisah di bawah ini (satu per kemungkinan parent). Mohon cek dan gabungkan/hapus salah satu manual kalau ternyata cuma 1 yang benar.",
+    "source_box_id_internal": "B4"
+  },
+  {
+    "job_title": "Business Unit Manager 2",
+    "parent": "Direktur LPG",
+    "name": null,
+    "status": "ambiguous_solid_merge",
+    "note": "Posisi \"Business Unit Manager\" terdeteksi ambigu - garis solid menyatu di antara 2 kotak atasan (Direktur BBM, Pelumas & Kimia, Direktur LPG). Sistem otomatis membuat 2 baris terpisah di bawah ini (satu per kemungkinan parent). Mohon cek dan gabungkan/hapus salah satu manual kalau ternyata cuma 1 yang benar.",
+    "source_box_id_internal": "B4"
+  }
+]

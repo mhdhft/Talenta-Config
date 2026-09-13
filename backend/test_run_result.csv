@@ -1,0 +1,169 @@
+employee_id,field,nilai_lama,nilai_baru,status,note,source
+EMP001,First Name,Andi,Andi,Unchanged,,matched
+EMP001,Last Name,Wijaya,Wijaya,Unchanged,,matched
+EMP001,Job Position,Software Engineer,Senior Software Engineer,Changed,,matched
+EMP001,Organization Name,IT Department,IT Department,Unchanged,,matched
+EMP001,Job Level,3,3,Unchanged,,matched
+EMP001,Grade,G3,G3,Unchanged,,matched
+EMP001,Class,I,I,Unchanged,,matched
+EMP001,Employment Status,Permanent,Permanent,Unchanged,,matched
+EMP001,Employment Status End Date,,,Unchanged,,matched
+EMP001,Branch Name,Jakarta,Jakarta,Unchanged,,matched
+EMP001,Cost Center,CC001,CC001,Unchanged,,matched
+EMP001,Cost Center Category,Corporate,Corporate,Unchanged,,matched
+EMP001,Approval Line,Line A,Line A,Unchanged,,matched
+EMP001,Manager,Rudi Hartono,Rudi Hartono,Unchanged,,matched
+EMP002,First Name,Siti,Siti,Unchanged,,matched
+EMP002,Last Name,Nurhaliza,Nurhaliza,Unchanged,,matched
+EMP002,Job Position,Finance Staff ,Finance Staff,Need Confirmation,"Ada spasi tambahan (leading/trailing/ganda), makna value sebenarnya sama.",matched
+EMP002,Organization Name,Finance,Finance,Unchanged,,matched
+EMP002,Job Level,2,2,Unchanged,,matched
+EMP002,Grade,G2,G2,Unchanged,,matched
+EMP002,Class,II,II,Unchanged,,matched
+EMP002,Employment Status,Permanent,Permanent,Unchanged,,matched
+EMP002,Employment Status End Date,,,Unchanged,,matched
+EMP002,Branch Name,Bandung,Bandung,Unchanged,,matched
+EMP002,Cost Center,CC002,CC002,Unchanged,,matched
+EMP002,Cost Center Category,Corporate,Corporate,Unchanged,,matched
+EMP002,Approval Line,Line B,Line B,Unchanged,,matched
+EMP002,Manager,Wati Susanti,Wati Susanti,Unchanged,,matched
+EMP003,First Name,Budi,Budi,Unchanged,,matched
+EMP003,Last Name,Santoso,Santoso,Unchanged,,matched
+EMP003,Job Position,Sales Manger,Sales Manager,Need Confirmation,Kemungkinan typo: Perbedaan terjadi karena kesalahan pengetikan pada kata 'Manger' yang seharusnya 'Manager' (kurang huruf 'a').,matched
+EMP003,Organization Name,Sales,Sales,Unchanged,,matched
+EMP003,Job Level,4,4,Unchanged,,matched
+EMP003,Grade,G4,G4,Unchanged,,matched
+EMP003,Class,I,I,Unchanged,,matched
+EMP003,Employment Status,Permanent,Permanent,Unchanged,,matched
+EMP003,Employment Status End Date,,,Unchanged,,matched
+EMP003,Branch Name,Surabaya,Surabaya,Unchanged,,matched
+EMP003,Cost Center,CC003,CC003,Unchanged,,matched
+EMP003,Cost Center Category,Regional,Regional,Unchanged,,matched
+EMP003,Approval Line,Line C,Line C,Unchanged,,matched
+EMP003,Manager,Doni Prasetyo,Doni Prasetyo,Unchanged,,matched
+EMP004,First Name,Rina,Rina,Unchanged,,matched
+EMP004,Last Name,Kartika,Kartika,Unchanged,,matched
+EMP004,Job Position,Marketing Staff,Marketing Staff,Unchanged,,matched
+EMP004,Organization Name,Marketing & Communication,Marketing,Changed,,matched
+EMP004,Job Level,2,2,Unchanged,,matched
+EMP004,Grade,G2,G2,Unchanged,,matched
+EMP004,Class,II,II,Unchanged,,matched
+EMP004,Employment Status,Permanent,Permanent,Unchanged,,matched
+EMP004,Employment Status End Date,,,Unchanged,,matched
+EMP004,Branch Name,Jakarta,Jakarta,Unchanged,,matched
+EMP004,Cost Center,CC004,CC004,Unchanged,,matched
+EMP004,Cost Center Category,Corporate,Corporate,Unchanged,,matched
+EMP004,Approval Line,Line A,Line A,Unchanged,,matched
+EMP004,Manager,Rudi Hartono,Rudi Hartono,Unchanged,,matched
+EMP005,First Name,Dewi,Dewi,Unchanged,,matched
+EMP005,Last Name,Anggraini,Anggraini,Unchanged,,matched
+EMP005,Job Position,HR Staff,HR Staff,Unchanged,,matched
+EMP005,Organization Name,Human Resources,Human Resources,Unchanged,,matched
+EMP005,Job Level,2,2,Unchanged,,matched
+EMP005,Grade,G2,G2,Unchanged,,matched
+EMP005,Class,II,II,Unchanged,,matched
+EMP005,Employment Status,Permanent,Permanent,Unchanged,,matched
+EMP005,Employment Status End Date,,,Unchanged,,matched
+EMP005,Branch Name,Jakarta,Jakarta,Unchanged,,matched
+EMP005,Cost Center,CC005,CC005,Unchanged,,matched
+EMP005,Cost Center Category,Corporate,Corporate,Unchanged,,matched
+EMP005,Approval Line,Line A,Line A,Unchanged,,matched
+EMP005,Manager,Rudi Hartono,Rudi Hartono,Unchanged,,matched
+EMP006,First Name,Hendra,Hendra,Unchanged,,matched
+EMP006,Last Name,Gunawan,Gunawan,Unchanged,,matched
+EMP006,Job Position,Warehouse Staff,Warehouse Staff,Unchanged,,matched
+EMP006,Organization Name,Logistics,Logistics,Unchanged,,matched
+EMP006,Job Level,1,1,Unchanged,,matched
+EMP006,Grade,G1,G1,Unchanged,,matched
+EMP006,Class,III,III,Unchanged,,matched
+EMP006,Employment Status,Permanent,Permanent,Unchanged,,matched
+EMP006,Employment Status End Date,,,Unchanged,,matched
+EMP006,Branch Name,Surabaya#1,Surabaya,Need Confirmation,Ada simbol/karakter yang tidak wajar pada value.,matched
+EMP006,Cost Center,CC006,CC006,Unchanged,,matched
+EMP006,Cost Center Category,Regional,Regional,Unchanged,,matched
+EMP006,Approval Line,Line C,Line C,Unchanged,,matched
+EMP006,Manager,Doni Prasetyo,Doni Prasetyo,Unchanged,,matched
+EMP007,First Name,Fajar,Fajar,Unchanged,,matched
+EMP007,Last Name,Nugroho,Nugroho,Unchanged,,matched
+EMP007,Job Position,IT Support,IT Support,Unchanged,,matched
+EMP007,Organization Name,IT Department,IT Department,Unchanged,,matched
+EMP007,Job Level,2,2,Unchanged,,matched
+EMP007,Grade,G2,G2,Unchanged,,matched
+EMP007,Class,II,II,Unchanged,,matched
+EMP007,Employment Status,Contract,Contract,Unchanged,,matched
+EMP007,Employment Status End Date,2026-12-31,2027-06-30,Changed,,matched
+EMP007,Branch Name,Jakarta,Jakarta,Unchanged,,matched
+EMP007,Cost Center,CC001,CC001,Unchanged,,matched
+EMP007,Cost Center Category,Corporate,Corporate,Unchanged,,matched
+EMP007,Approval Line,Line A,Line A,Unchanged,,matched
+EMP007,Manager,Rudi Hartono,Rudi Hartono,Unchanged,,matched
+EMP008,First Name,Maya,Maya,Unchanged,,matched
+EMP008,Last Name,Puspita,Puspita,Unchanged,,matched
+EMP008,Job Position,Accounting Staff,Accounting Staff,Unchanged,,matched
+EMP008,Organization Name,Finance,Finance,Unchanged,,matched
+EMP008,Job Level,2,2,Unchanged,,matched
+EMP008,Grade,G5,G4,Changed,,matched
+EMP008,Class,II,II,Unchanged,,matched
+EMP008,Employment Status,Permanent,Permanent,Unchanged,,matched
+EMP008,Employment Status End Date,,,Unchanged,,matched
+EMP008,Branch Name,Bandung,Bandung,Unchanged,,matched
+EMP008,Cost Center,CC002,CC002,Unchanged,,matched
+EMP008,Cost Center Category,Corporate,Corporate,Unchanged,,matched
+EMP008,Approval Line,Line B,Line B,Unchanged,,matched
+EMP008,Manager,Wati Susanti,Wati Susanti,Unchanged,,matched
+EMP009,First Name,Yusuf,Yusuf,Unchanged,,matched
+EMP009,Last Name,Ramadhan,Ramadhan,Unchanged,,matched
+EMP009,Job Position,Legal Staff,Legal Staff,Unchanged,,matched
+EMP009,Organization Name,Legal,Legal,Unchanged,,matched
+EMP009,Job Level,3,3,Unchanged,,matched
+EMP009,Grade,G3,G3,Unchanged,,matched
+EMP009,Class,III,II,Changed,,matched
+EMP009,Employment Status,Permanent,Permanent,Unchanged,,matched
+EMP009,Employment Status End Date,,,Unchanged,,matched
+EMP009,Branch Name,Jakarta,Jakarta,Unchanged,,matched
+EMP009,Cost Center,CC007,CC007,Unchanged,,matched
+EMP009,Cost Center Category,Corporate,Corporate,Unchanged,,matched
+EMP009,Approval Line,Line A,Line A,Unchanged,,matched
+EMP009,Manager,Rudi Hartono,Rudi Hartono,Unchanged,,matched
+EMP010,First Name,Lina,Lina,Unchanged,,matched
+EMP010,Last Name,Marlina,Marlina,Unchanged,,matched
+EMP010,Job Position,Customer Service,Customer Service,Unchanged,,matched
+EMP010,Organization Name,Customer Service,Customer Service,Unchanged,,matched
+EMP010,Job Level,1,1,Unchanged,,matched
+EMP010,Grade,G1,G1,Unchanged,,matched
+EMP010,Class,I,I,Unchanged,,matched
+EMP010,Employment Status,Permanent,Permanent,Unchanged,,matched
+EMP010,Employment Status End Date,,,Unchanged,,matched
+EMP010,Branch Name,Surabaya,Surabaya,Unchanged,,matched
+EMP010,Cost Center,CC010,CC010,Unchanged,,matched
+EMP010,Cost Center Category,Corporate,Corporate,Unchanged,,matched
+EMP010,Approval Line,Line C,Line C,Unchanged,,matched
+EMP010,Manager,Doni Prasetyo,Doni Prasetyo,Unchanged,,matched
+EMP012,First Name,Citra,,Not Found,Employee ID ada di Reference Document tapi tidak ditemukan di New Document.,unidentified_employee
+EMP012,Last Name,Dewanti,,Not Found,Employee ID ada di Reference Document tapi tidak ditemukan di New Document.,unidentified_employee
+EMP012,Job Position,Finance Staff,,Not Found,Employee ID ada di Reference Document tapi tidak ditemukan di New Document.,unidentified_employee
+EMP012,Organization Name,Finance,,Not Found,Employee ID ada di Reference Document tapi tidak ditemukan di New Document.,unidentified_employee
+EMP012,Job Level,2,,Not Found,Employee ID ada di Reference Document tapi tidak ditemukan di New Document.,unidentified_employee
+EMP012,Grade,G2,,Not Found,Employee ID ada di Reference Document tapi tidak ditemukan di New Document.,unidentified_employee
+EMP012,Class,II,,Not Found,Employee ID ada di Reference Document tapi tidak ditemukan di New Document.,unidentified_employee
+EMP012,Employment Status,Permanent,,Not Found,Employee ID ada di Reference Document tapi tidak ditemukan di New Document.,unidentified_employee
+EMP012,Employment Status End Date,,,Not Found,Employee ID ada di Reference Document tapi tidak ditemukan di New Document.,unidentified_employee
+EMP012,Branch Name,Bandung,,Not Found,Employee ID ada di Reference Document tapi tidak ditemukan di New Document.,unidentified_employee
+EMP012,Cost Center,CC002,,Not Found,Employee ID ada di Reference Document tapi tidak ditemukan di New Document.,unidentified_employee
+EMP012,Cost Center Category,Corporate,,Not Found,Employee ID ada di Reference Document tapi tidak ditemukan di New Document.,unidentified_employee
+EMP012,Approval Line,Line B,,Not Found,Employee ID ada di Reference Document tapi tidak ditemukan di New Document.,unidentified_employee
+EMP012,Manager,Wati Susanti,,Not Found,Employee ID ada di Reference Document tapi tidak ditemukan di New Document.,unidentified_employee
+EMP011,First Name,,Bayu,Not Found,Employee ID ada di New Document tapi belum ada di Reference Document (kemungkinan karyawan baru).,new_employee
+EMP011,Last Name,,Saputra,Not Found,Employee ID ada di New Document tapi belum ada di Reference Document (kemungkinan karyawan baru).,new_employee
+EMP011,Job Position,,Marketing Staff,Not Found,Employee ID ada di New Document tapi belum ada di Reference Document (kemungkinan karyawan baru).,new_employee
+EMP011,Organization Name,,Marketing,Not Found,Employee ID ada di New Document tapi belum ada di Reference Document (kemungkinan karyawan baru).,new_employee
+EMP011,Job Level,,1,Not Found,Employee ID ada di New Document tapi belum ada di Reference Document (kemungkinan karyawan baru).,new_employee
+EMP011,Grade,,G1,Not Found,Employee ID ada di New Document tapi belum ada di Reference Document (kemungkinan karyawan baru).,new_employee
+EMP011,Class,,I,Not Found,Employee ID ada di New Document tapi belum ada di Reference Document (kemungkinan karyawan baru).,new_employee
+EMP011,Employment Status,,Permanent,Not Found,Employee ID ada di New Document tapi belum ada di Reference Document (kemungkinan karyawan baru).,new_employee
+EMP011,Employment Status End Date,,,Not Found,Employee ID ada di New Document tapi belum ada di Reference Document (kemungkinan karyawan baru).,new_employee
+EMP011,Branch Name,,Jakarta,Not Found,Employee ID ada di New Document tapi belum ada di Reference Document (kemungkinan karyawan baru).,new_employee
+EMP011,Cost Center,,CC004,Not Found,Employee ID ada di New Document tapi belum ada di Reference Document (kemungkinan karyawan baru).,new_employee
+EMP011,Cost Center Category,,Corporate,Not Found,Employee ID ada di New Document tapi belum ada di Reference Document (kemungkinan karyawan baru).,new_employee
+EMP011,Approval Line,,Line A,Not Found,Employee ID ada di New Document tapi belum ada di Reference Document (kemungkinan karyawan baru).,new_employee
+EMP011,Manager,,Rudi Hartono,Not Found,Employee ID ada di New Document tapi belum ada di Reference Document (kemungkinan karyawan baru).,new_employee
