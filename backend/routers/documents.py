@@ -11,9 +11,8 @@ from models import AnalysisRun, User
 
 router = APIRouter(prefix="/documents", tags=["documents"])
 
-BASE_DIR = Path(__file__).resolve().parent.parent
-UPLOAD_DIR = BASE_DIR / "uploads"
-UPLOAD_DIR.mkdir(exist_ok=True)
+UPLOAD_DIR = Path("/tmp/uploads")
+UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
 
 ALLOWED_EXTENSIONS = {".xlsx", ".csv"}
 
