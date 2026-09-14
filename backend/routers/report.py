@@ -21,7 +21,7 @@ MAX_STORED_REPORTS = 2
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 TEMPLATE_PATH = BASE_DIR.parent / "templates" / "template_B.xlsx"
-REPORTS_DIR = Path("/tmp/reports")
+REPORTS_DIR = Path("/tmp/reports") 
 REPORTS_DIR.mkdir(parents=True, exist_ok=True)
 
 # Field standar Template A -> pasangan kolom (from, to) di sheet "Employee
