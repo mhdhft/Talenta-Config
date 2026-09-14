@@ -33,7 +33,14 @@ app.add_middleware(
 
 @app.on_event("startup")
 def on_startup():
-    Base.metadata.create_all(bind=engine)
+    try:
+        Base.metadata.create_all(bind=engine)
+    except Exception:
+        # Di lingkungan serverless (Vercel), beberapa instance bisa mencoba
+        # membuat tabel secara bersamaan. Kalau tabel sudah ada (dibuat oleh
+        # instance lain), abaikan saja - bukan error yang perlu menghentikan
+        # aplikasi.
+        pass
 
 
 app.include_router(auth.router)
