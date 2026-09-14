@@ -52,7 +52,7 @@ from structure_extraction import BoxStatus, StructureRow, extract_structure, gue
 router = APIRouter(prefix="/structure-mapper", tags=["structure-mapper"])
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-UPLOAD_DIR = BASE_DIR / "uploads" / "structure-mapper"
+UPLOAD_DIR = Path("/tmp/uploads/structure-mapper")
 UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
 
 # Terjemahan status internal Fase B (structure_extraction.BoxStatus, 4 nilai)
